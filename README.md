@@ -13,6 +13,15 @@ Belajar :
 - 🇯🇵 JPLT N5
 ______________________________________________
 
+💻 MY PROJECT 
+
+AI Machine Learning :
+
+App Developer : 
+
+Cyber Security :
+
+______________________________________________
 ## 🔗 Sosial Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)(https://www.instagram.com/hann_kun7?igsh=MWgwdmZmMnZta2wzeg==)
 
