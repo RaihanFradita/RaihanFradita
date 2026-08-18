@@ -1,5 +1,5 @@
 ## My Profil GitHub Gwa 😂
-<img src = https://www.wallpaperflare.com/anime-girls-blue-archive-hayase-yuuka-wallpaper-yosys) >
+<img src = https://www.wallpaperflare.com/anime-girls-blue-archive-hayase-yuuka-wallpaper-yosys >
 
 💻 Mahasiswa IT  
 🤖 AI Engineer | 📱 App Developer | 
