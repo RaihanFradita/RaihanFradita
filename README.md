@@ -1,28 +1,104 @@
-## My Profil GitHub Gwa 😂
-<img src = https://www.wallpaperflare.com/anime-girls-blue-archive-hayase-yuuka-wallpaper-yosys](https://c4.wallpaperflare.com/wallpaper/500/241/120/anime-girls-anime-blue-archive-hayase-yuuka-hd-wallpaper-preview.jpg >
+# 👋 Hi, I'm Raihan
 
-💻 Mahasiswa IT  
-🤖 AI Engineer | 📱 App Developer | 
+### 🤖 AI Engineer & Software Engineer
 
-______________________________________________
+🎓 Information Technology Student
+🤖 Building AI-powered applications
+💻 Software & Web Development
+🚀 Learning, Building, and Shipping Projects
 
-## 🎓 Belajar
-Belajar :  
-- Java, Kotlin, Rush, Go, Node.js, Vue.Js, PHP, SQL, MATLAB, Scala, Ruby, Python
-- 🇨🇳 HSK 1
-- 🇯🇵 JPLT N5
-- English US
-______________________________________________
+---
 
-💻 MY PROJECT 
+## 🧠 About Me
 
-AI Machine Learning :
+I'm an Information Technology student interested in **Artificial Intelligence, Software Engineering, and Application Development**.
 
-App Developer : 
+I enjoy turning ideas into real-world projects, experimenting with new technologies, and continuously improving my programming skills.
 
-______________________________________________
-## 🔗 Sosial Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)(https://www.instagram.com/hann_kun7?igsh=MWgwdmZmMnZta2wzeg==)
+Currently focusing on:
 
-<img src = "https://github.com/user-attachments/assets/3bc3748b-917c-4fa8-b3ce-5bdb0774d5e6" width="300" >
-<img src = "https://github.com/user-attachments/assets/55e172fc-2c72-4b6e-aef9-835876644eec" width="360" >
+* 🤖 Artificial Intelligence & Machine Learning
+* 💻 Software Engineering
+* 🌐 Web & Application Development
+* 🗄️ Database & Backend Development
+* 🎨 UI/UX & Modern Web Interfaces
+
+---
+
+## ⚡ Tech Stack
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+### 💻 Programming & Software Engineering
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java" />
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind" />
+
+### 🗄️ Database & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode" />
+
+---
+
+## 📚 Currently Learning
+
+* Python
+* C++
+* Java
+* JavaScript / TypeScript
+* Node.js
+* React
+* SQL
+* Machine Learning
+* Artificial Intelligence
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Assistant
+
+An AI assistant application focused on conversational AI, modern UI, file interaction, and AI-powered features.
+
+**Tech:** Python · React · Node.js · Ollama
+
+### 🌐 Web Applications
+
+Building modern and responsive web applications with a focus on clean UI, usability, and performance.
+
+**Tech:** React · JavaScript · TypeScript · Tailwind CSS
+
+---
+
+## 🎯 Goals
+
+> Build useful software, create intelligent applications, and continuously grow as an engineer.
+
+I'm currently working toward becoming a **professional AI Engineer & Software Engineer**.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=transparent)
+
+---
+
+## 🌱 Learning Journey
+
+**AI Engineering** → Machine Learning → Deep Learning → AI Applications
+
+**Software Engineering** → Programming → Backend → Full-Stack Development
+
+---
+
+### 💡 "Build. Learn. Improve. Repeat."
+
+📫 Feel free to explore my repositories and projects.
