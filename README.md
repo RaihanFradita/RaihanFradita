@@ -1,16 +1,17 @@
 ## My Profil GitHub Gwa 😂
-<img src = "https://github.com/user-attachments/assets/6a7976d3-9664-4927-ab35-bc3dcfb3f34f" width ="700" >
+<img src = https://www.wallpaperflare.com/anime-girls-blue-archive-hayase-yuuka-wallpaper-yosys) >
 
 💻 Mahasiswa IT  
-🤖 AI & Machine Learning | 🛡️ Cyber Security | 📱 App Developer  
+🤖 AI Engineer | 📱 App Developer | 
 
 ______________________________________________
 
 ## 🎓 Belajar
 Belajar :  
-- Java, Kotlin, Rush, Go, Node.js, Vue.Js, PHP, SQL, MATLAB, Scala, Ruby, 
+- Java, Kotlin, Rush, Go, Node.js, Vue.Js, PHP, SQL, MATLAB, Scala, Ruby, Python
 - 🇨🇳 HSK 1
 - 🇯🇵 JPLT N5
+- English US
 ______________________________________________
 
 💻 MY PROJECT 
@@ -18,8 +19,6 @@ ______________________________________________
 AI Machine Learning :
 
 App Developer : 
-
-Cyber Security :
 
 ______________________________________________
 ## 🔗 Sosial Media
