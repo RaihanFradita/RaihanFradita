@@ -31,33 +31,61 @@ Currently focusing on:
 
 ### 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" />
+</p>
 
-### 💻 Programming & Software Engineering
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java" />
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind" />
-
-### 🗄️ Database & Development Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,docker,vscode" />
+**Python · TensorFlow · PyTorch**
 
 ---
 
-## 📚 Currently Learning
+### 💻 Programming Languages
 
-* Python
-* C++
-* Java
-* JavaScript / TypeScript
-* Node.js
-* React
-* SQL
-* Machine Learning
-* Artificial Intelligence
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" />
+  <img src="https://skillicons.dev/icons?i=php" width="50" />
+  <img src="https://skillicons.dev/icons?i=go" width="50" />
+  <img src="https://skillicons.dev/icons?i=kotlin" width="50" />
+</p>
+
+**Python · C++ · Java · JavaScript · TypeScript · PHP · Go · Kotlin**
+
+---
+
+### 🌐 Web & Software Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+</p>
+
+**HTML · CSS · React · Next.js · Node.js · Tailwind CSS**
+
+---
+
+### 🗄️ Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://skillicons.dev/icons?i=docker" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
+</p>
+
+**MySQL · PostgreSQL · Git · GitHub · Docker · VS Code**
+
 
 ---
 
