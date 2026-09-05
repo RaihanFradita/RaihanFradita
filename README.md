@@ -1,6 +1,6 @@
 # <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" height="45" /> Hi, I'm Raihan 
 
-<img src="https://foto.kontan.co.id/NOS3d283BXEXXxpIBUUcMh4xUYo=/smart/2024/07/13/880576286p.jpg" />
+<img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/07/my-deer-friend-nokotan-episode-2-nokotan-fist-of-the-north-star.jpg?w=1600&h=1200&fit=crop" />
 
 ### 🤖 AI Engineer & Software Engineer
 
