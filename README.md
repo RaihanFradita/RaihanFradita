@@ -2,7 +2,7 @@
 
 <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/07/my-deer-friend-nokotan-episode-2-nokotan-fist-of-the-north-star.jpg?w=1600&h=1200&fit=crop" />
 
-### 🤖 AI Engineer & Software Engineer
+### AI Engineer & Software Engineer
 
 🎓 Information Technology Student
 🤖 Building AI-powered applications
