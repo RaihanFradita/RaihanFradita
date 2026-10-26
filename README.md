@@ -78,7 +78,6 @@ Currently focusing on:
   <img src="https://skillicons.dev/icons?i=postgres" width="50" />
   <img src="https://skillicons.dev/icons?i=git" width="50" />
   <img src="https://skillicons.dev/icons?i=github" width="50" />
-  <img src="https://skillicons.dev/icons?i=docker" width="50" />
   <img src="https://skillicons.dev/icons?i=vscode" width="50" />
 </p>
 
