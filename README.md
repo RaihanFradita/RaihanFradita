@@ -50,11 +50,9 @@ Currently focusing on:
   <img src="https://skillicons.dev/icons?i=javascript" width="50" />
   <img src="https://skillicons.dev/icons?i=typescript" width="50" />
   <img src="https://skillicons.dev/icons?i=php" width="50" />
-  <img src="https://skillicons.dev/icons?i=go" width="50" />
-  <img src="https://skillicons.dev/icons?i=kotlin" width="50" />
 </p>
 
-**Python · C++ · Java · JavaScript · TypeScript · PHP · Go · Kotlin**
+**Python · C++ · Java · JavaScript · TypeScript · PHP**
 
 ---
 
