@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## 😹 About Me
 
 I'm an Information Technology student interested in **Artificial Intelligence, Software Engineering, and Application Development**.
 
