@@ -81,7 +81,7 @@ Currently focusing on:
   <img src="https://skillicons.dev/icons?i=vscode" width="50" />
 </p>
 
-**MySQL · PostgreSQL · Git · GitHub · Docker · VS Code**
+**MySQL · PostgreSQL · Git · GitHub · VS Code**
 
 
 ---
