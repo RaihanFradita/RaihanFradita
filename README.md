@@ -1,6 +1,6 @@
 # <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" height="45" /> Hi, I'm Raihan Fradita!
 
-<img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2024/07/my-deer-friend-nokotan-episode-2-nokotan-fist-of-the-north-star.jpg?w=1600&h=1200&fit=crop" />
+<img src="https://id.pinterest.com/pin/1145040274130576091/" />
 
 ### AI Engineer & Software Engineer
 
